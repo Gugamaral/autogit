@@ -24,6 +24,8 @@ auto.press('enter')
 auto.press('tab')
 auto.press('tab')
 auto.press('tab')
+auto.press('tab')
+auto.press('tab')
 auto.press('enter')
 
 auto.write('pip install cx_Freeze')
