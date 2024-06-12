@@ -21,6 +21,11 @@ auto.press('enter')
 auto.write('git push -u origin main')
 auto.press('enter')
 
+auto.press('tab')
+auto.press('tab')
+auto.press('tab')
+auto.press('enter')
+
 auto.write('pip install cx_Freeze')
 auto.press('enter')
 
