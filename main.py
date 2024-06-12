@@ -21,6 +21,7 @@ auto.press('enter')
 auto.write('git push -u origin main')
 auto.press('enter')
 
+time.sleep(3)
 auto.press('tb')
 auto.press('tb')
 auto.press('tb')
