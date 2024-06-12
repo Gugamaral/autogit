@@ -23,7 +23,5 @@ auto.press('enter')
 auto.write('git push -u origin main')
 auto.press('enter')
 
-auto.write('github.com')
-auto.press('enter')
 
 
