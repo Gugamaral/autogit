@@ -1,8 +1,6 @@
 import pyautogui as auto
 import time
 
-auto.PAUSE = 0.5
-
 auto.hotkey('ctrl', 'j')
 auto.hotkey('ctrl', 'j')
 auto.press('enter')
